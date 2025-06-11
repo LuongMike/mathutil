@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.giaolang.util</groupId>
+    <artifactId>mathutil</artifactId>
+    <version>67.89</version>
+
+    <properties>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <!--Đây là nơi khai báo các thư viện cần dùng
+        Nhưng khai báo theo cú pháp nào
+        Làm sao để tải về và add vào project để dùng
+        có 1 tool cài sẵn theo netbeans, eclipse, intellji tên là maven
+        giúp ta khai báo, tải về, add vào project, thậm chí còn giúp build app
+        và đóng gói app thành .JAR, .WAR
+        Bên node.js/react là tool npm
+        Bên C# là tool: nuget
+        Bên Java tool maven: mvn-->
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.13.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>
