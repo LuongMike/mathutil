@@ -10,6 +10,16 @@
 
 * ...
 
+## Screen shots
+
+### DDT, TDD test scripts with JUnit
+
+![TDD,  DDT test scripts](https://github.com/LuongMike/mathutil/blob/master/screenshots/JUNIT%20with%20TDD%20DDT.png)
+
+### Maven builder to build .jar file  
+
+![Maven builder](https://github.com/LuongMike/mathutil/blob/master/screenshots/Maven%20Builder.png)
+
 ### Connect me via: luongmike@gmail.com
 
 #### &#169; luongmike
