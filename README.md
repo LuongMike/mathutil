@@ -1,3 +1,7 @@
+[![Math Utility Project (CI included) | © 2025 by luongmike](https://github.com/LuongMike/mathutil/actions/workflows/ci.yml/badge.svg)](https://github.com/LuongMike/mathutil/actions/workflows/ci.yml)
+
+
+
 # Welcome to Math Utility Repository
 
 ## You will find in this repo the following stuff:
